@@ -6,6 +6,7 @@ sources:
     schema: stb_de_zoomcamp
 
     tables:
+      - name: fhv
       - name: green_tripdata
       - name: yellow_tripdata
 
